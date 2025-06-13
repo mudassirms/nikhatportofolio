@@ -25,7 +25,7 @@ import elcips from './assets/tech_logo/eclips.png';
 import csharpLogo from './assets/tech_logo/csharp.png';
 
 // Experience Section Logo's
-import sfs from './assets/company_logo/sfs.png';
+import SFS from './assets/company_logo/SFS.png';
 // import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
 import Consilio from './assets/company_logo/Consilio.png';
 
@@ -100,7 +100,7 @@ export const SkillsInfo = [
     },
     {
       id: 1,
-      img: sfs,
+      img: SFS,
       role: "Software Developer Intern",
       company: "Simplified future Systems",
       date: "Aug 2019 - Nov 20219",
